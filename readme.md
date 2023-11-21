@@ -2,7 +2,7 @@
     <img src="assets/d2d_logo.png" width="550"></a>
     <br />
     <br />
-    <a href="https://github.com/pytorch/fairseq/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
+    <a href="https://github.com/salvation-z/D2DToolkits/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
 </p>
 
 - [D2D Toolkits: A fast and versatile document-level machine translation toolkits](#d2d-toolkits-a-fast-and-versatile-document-level-machine-translation-toolkits)
